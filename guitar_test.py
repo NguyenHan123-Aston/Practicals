@@ -1,6 +1,5 @@
 """
-CP1404/CP5632 Practical - Suggested Solution
-Basic manual tests for Guitar class
+CP1404/CP5632 Practical Guitar Test
 """
 from prac_06.guitars import Guitar
 
